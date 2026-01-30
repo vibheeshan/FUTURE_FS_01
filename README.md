@@ -1,4 +1,5 @@
 # 🚀 Professional Portfolio Website
+<a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey" /></a>
 
 A modern, responsive, and feature-rich portfolio website built with HTML, CSS, JavaScript, Node.js, and Express. This portfolio showcases your skills, projects, and provides a contact form with email notifications.
 
@@ -299,17 +300,14 @@ Test on:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project for educational and professional purposes.
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
 
 ## 🙏 Acknowledgments
 
