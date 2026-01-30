@@ -2,7 +2,7 @@
 
 A modern, responsive, and feature-rich portfolio website built with HTML, CSS, JavaScript, Node.js, and Express. This portfolio showcases your skills, projects, and provides a contact form with email notifications.
 
-![Portfolio Preview](./assets/preview.png)
+
 
 ## ✨ Features
 
@@ -317,16 +317,6 @@ Project Link: [https://github.com/yourusername/portfolio](https://github.com/you
 - Icons inspiration from various open-source projects
 - Design inspiration from [Dribbble](https://dribbble.com/) and [Awwwards](https://www.awwwards.com/)
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](./assets/screenshot-desktop.png)
-
-### Mobile View
-![Mobile Screenshot](./assets/screenshot-mobile.png)
-
-### Contact Form
-![Contact Form](./assets/screenshot-contact.png)
 
 ---
 
